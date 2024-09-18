@@ -48,7 +48,7 @@
      WHERE A.Key IS NULL;
      ```
 
-6. inner **FULL OUTER JOIN**:
+6. **FULL OUTER JOIN**:
    - Retrieves all records when there is a match in either left (Table A) or right (Table B) table records.
    - **SQL Syntax**:
      ```sql
